@@ -47,6 +47,20 @@ A collection of awesome things for [slatejs](https://github.com/ianstormtaylor/s
 - [Nossas Editor](https://slate-editor.bonde.org/) - A complete rich text editor based on SlateJS framework
 - [Outline Editor](https://github.com/outline/rich-markdown-editor) - Slate based markdown editor that powers Outline wiki
 
+
+### Yazid notes
+
+
+Fluxnotes
+
+gitbook
+
+payload 
+
+
+
+
+
 ##### Articles
 - [Why We Moved From Quill to Slate](https://medium.com/the-lead/why-we-moved-from-quill-to-slate-94f42aa54fec)
 
