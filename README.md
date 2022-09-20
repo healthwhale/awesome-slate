@@ -50,18 +50,30 @@ A collection of awesome things for [slatejs](https://github.com/ianstormtaylor/s
 
 ## Features in editor for medical care
 
-[ ] formating text
-[ ] blocks 
-[ ] collaboration
-[ ] @mentions
-[ ] # hashtags 
-[ ] forward slash commands -> gitbook or notion
-[ ] templates
-[ ] autocomplete
-[ ] forms embeded
-[ ] connect with other part of formated data
-[ ] Draw in notes
-[ ] 
+- [ ] formating text
+- [ ] blocks 
+- [ ] collaboration
+- [ ] @mentions
+- [ ] # hashtags 
+- [ ] forward slash commands -> gitbook or notion
+- [ ] templates
+- [ ] autocomplete
+- [ ] forms embeded
+- [ ] connect with other part of formated data
+- [ ] Draw in notes
+- [ ] search within notes
+- [ ] dictation
+- [ ] AI dictation
+- [ ] embeds
+- [ ] versions and history
+- [ ] backlink pages and other notes
+- [ ] blocks link notion (dynamic blocks)
+- [ ] auto save
+- [ ] read only after signing 
+- [ ] table of content 
+- [ ] side comments -> lexical 
+- [ ] spell checking
+- [ ] 
 
 
 ### Yazid notes
@@ -72,6 +84,8 @@ Fluxnotes
 gitbook
 
 payload 
+
+hygraph
 
 
 
