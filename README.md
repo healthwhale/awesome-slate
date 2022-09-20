@@ -48,6 +48,22 @@ A collection of awesome things for [slatejs](https://github.com/ianstormtaylor/s
 - [Outline Editor](https://github.com/outline/rich-markdown-editor) - Slate based markdown editor that powers Outline wiki
 
 
+## Features in editor for medical care
+
+[ ] formating text
+[ ] blocks 
+[ ] collaboration
+[ ] @mentions
+[ ] # hashtags 
+[ ] forward slash commands -> gitbook or notion
+[ ] templates
+[ ] autocomplete
+[ ] forms embeded
+[ ] connect with other part of formated data
+[ ] Draw in notes
+[ ] 
+
+
 ### Yazid notes
 
 
